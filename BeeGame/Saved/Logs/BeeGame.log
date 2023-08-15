@@ -2060,3 +2060,5 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2023.08.15-14.14.02:764][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.15-14.14.02:767][475]LogPlayLevel: Display: Destroying online subsystem :Context_10
 [2023.08.15-14.14.57:986][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.08.15-14.21.56:082][154]LogEditorViewport: Clicking Background
+[2023.08.15-14.21.59:138][509]LogEditorViewport: Clicking Background
