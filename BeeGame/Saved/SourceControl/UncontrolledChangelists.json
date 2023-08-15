@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Tiles.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/WorldGeneration.umap",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/NewBlueprint1.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset"
 			]
 		}
 	]
