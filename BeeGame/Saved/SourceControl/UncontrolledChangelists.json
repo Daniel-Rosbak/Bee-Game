@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Tiles.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/WorldGeneration.umap",
@@ -94,6 +95,9 @@
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Sprites/Beehive_Sprite.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Sprites/GrassTile.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Sprites/GrassTile_Sprite.uasset"
+=======
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+>>>>>>> parent of cfb45d0 (Tried making a Biom generation)
 			]
 		}
 	]
