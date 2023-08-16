@@ -12038,3 +12038,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.08.16-15.25.01:114][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.16-15.25.01:115][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.16-15.25.01:143][967]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.08.16-15.50.52:358][966]LogAssetRegistry: Warning: C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Grass.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
