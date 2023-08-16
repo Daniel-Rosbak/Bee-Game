@@ -129,7 +129,16 @@
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Sand_Flower.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Grass_Flower.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Ice_Flower.uasset",
-				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Flowers.uasset"
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Flowers.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Sprite/BiomeLock_Sprite.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Sprite/BiomeLocked_Sprite.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Sprite/BiomeLockHover_Sprite.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Sprite/Biome_Sprite.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Textures/Biome_Sprite.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Textures/BiomeLockHover_Sprite.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Textures/BiomeLocked_Sprite.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Textures/BiomeLock_Sprite.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/BiomeOverlay.uasset"
 			]
 		}
 	]
