@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Biom.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Maps/world.umap",
+				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Tile.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/CameraController.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Grass.uasset",
