@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Sand_Tiles.uasset",
+				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Sand_Flower.uasset",
+				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Ice_Tiles.uasset",
+				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Ice_Flower.uasset",
+				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Grass_Tiles.uasset",
+				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Grass_Flower.uasset",
+				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Grass.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Textures/GrassTile_Mat.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Grass.uasset",
 				"C:/Users/Alexander/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset",
