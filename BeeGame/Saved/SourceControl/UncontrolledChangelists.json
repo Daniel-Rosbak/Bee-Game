@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/CameraController.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset",
-				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Grass.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Maps/world.umap",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Sprites/MoneyGUI_Sprite.uasset",
@@ -29,6 +28,8 @@
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/BP_Placeable.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Flowers.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Tile.uasset",
+				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Mogens.uasset",
+				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Grass.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Sprites/MoneyGUI_Sprite_0.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Textures/MoneyGUI_Sprite.uasset",
 				"C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/Tiles.uasset",
