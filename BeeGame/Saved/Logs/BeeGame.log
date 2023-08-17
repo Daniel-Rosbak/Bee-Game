@@ -1107,3 +1107,8 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.08.17-12.18.50:261][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms
 [2023.08.17-12.18.50:264][459]AssetCheck: New page: Asset Save: Mogens
 [2023.08.17-12.18.50:264][459]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Mogens.Mogens
+[2023.08.17-12.20.44:081][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.08.17-12.20.45:139][283]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.17-12.20.45:154][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.17-12.20.45:161][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.08.17-12.20.45:168][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
