@@ -8150,3 +8150,158 @@ Script Stack (0 frames) :
 [2023.08.18-12.02.27:257][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.18-12.02.27:257][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.18-12.02.27:266][773]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.08.18-12.04.16:830][802]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-12.04.16:842][802]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-12.04.16:849][802]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-12.04.16:859][803]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-12.04.39:691][542]LogContentBrowser: Attempting asset rename: NewBlueprint -> SlingerFunction
+[2023.08.18-12.04.39:697][542]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-12.12.13:483][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.08.18-12.12.13:488][419]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/world' took 0.031
+[2023.08.18-12.12.13:488][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SlingerFunction] ([2] browsable assets)...
+[2023.08.18-12.12.13:488][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SlingerFunction]
+[2023.08.18-12.12.13:491][419]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/SlingerFunction_Auto8
+[2023.08.18-12.12.13:491][419]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/SlingerFunction_Auto801CEABF749C9702870FBEFA105E64292.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/Autosaves/Game/Blueprints/SlingerFunction_Auto8.uasset'
+[2023.08.18-12.12.13:492][419]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.08.18-12.12.47:808][237]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-12.12.47:841][237]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-12.12.47:847][237]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-12.12.47:855][238]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-12.13.01:526][879]LogContentBrowser: Attempting asset rename: NewBlueprint -> PackerFunction
+[2023.08.18-12.13.01:533][879]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-12.13.04:320][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.13.04:373][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SlingerFunction" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/SlingerFunction.uasset" SILENT=true
+[2023.08.18-12.13.04:375][211]LogSavePackage: Moving output files for package: /Game/Blueprints/SlingerFunction
+[2023.08.18-12.13.04:375][211]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/SlingerFunctionD0A382D244E431E88E8D3BB3F2C360CE.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/SlingerFunction.uasset'
+[2023.08.18-12.13.04:379][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PackerFunction" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/PackerFunction.uasset" SILENT=true
+[2023.08.18-12.13.04:381][211]LogSavePackage: Moving output files for package: /Game/Blueprints/PackerFunction
+[2023.08.18-12.13.04:381][211]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/PackerFunction91164159421229BED61EA89FB90BFF6B.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/PackerFunction.uasset'
+[2023.08.18-12.13.04:392][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.86 sec)
+[2023.08.18-12.13.04:398][211]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.18-12.13.04:398][211]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/SlingerFunction.SlingerFunction
+[2023.08.18-12.13.04:398][211]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PackerFunction.PackerFunction
+[2023.08.18-12.13.08:588][428]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-12.13.08:601][428]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-12.13.08:608][428]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-12.13.08:619][429]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-12.13.12:331][875]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.08.18-12.13.12:336][875]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-12.13.14:566][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.08.18-12.13.15:563][125]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.18-12.13.15:602][125]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/PackerFunction.PackerFunction
+	Asset Type: Blueprint
+[2023.08.18-12.13.15:901][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.08.18-12.13.15:926][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.08.18-12.13.15:950][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.08.18-12.13.21:515][791]LogContentBrowser: Attempting asset rename: NewBlueprint -> PackerFunction
+[2023.08.18-12.13.21:555][791]LogMetaData: Removing '/Game/Blueprints/PackerFunction.SKEL_PackerFunction_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.08.18-12.13.21:555][791]LogMetaData: Removing '/Game/Blueprints/PackerFunction.PackerFunction_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.08.18-12.13.21:555][791]LogMetaData: Removing '/Game/Blueprints/PackerFunction.PackerFunction:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.08.18-12.13.21:555][791]LogMetaData: Removing '/Game/Blueprints/PackerFunction.PackerFunction:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2023.08.18-12.13.21:556][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.13.21:608][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PackerFunction" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/PackerFunction.uasset" SILENT=true
+[2023.08.18-12.13.21:610][791]LogSavePackage: Moving output files for package: /Game/Blueprints/PackerFunction
+[2023.08.18-12.13.21:610][791]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/PackerFunctionDAA97A7A4266510D3E502A942568092F.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/PackerFunction.uasset'
+[2023.08.18-12.13.21:624][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 4.93 sec)
+[2023.08.18-12.13.21:657][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.08.18-12.13.21:683][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.08.18-12.13.21:706][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.08.18-12.13.21:713][791]AssetCheck: New page: Asset Save: PackerFunction
+[2023.08.18-12.13.21:713][791]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PackerFunction.PackerFunction
+[2023.08.18-12.13.25:742][ 92]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-12.13.25:785][ 92]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-12.13.25:791][ 92]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-12.13.25:799][ 93]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-12.13.36:254][348]LogContentBrowser: Attempting asset rename: NewBlueprint -> BeehiveFunction
+[2023.08.18-12.13.36:258][348]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-12.13.41:253][677]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-12.13.41:264][677]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-12.13.41:270][677]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-12.13.41:282][678]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-12.13.47:661][444]LogContentBrowser: Attempting asset rename: NewBlueprint -> PipeFunction
+[2023.08.18-12.13.47:666][444]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-12.13.59:415][838]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-12.13.59:425][838]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-12.13.59:434][838]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-12.13.59:444][839]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-12.14.11:772][319]LogContentBrowser: Attempting asset rename: NewBlueprint -> FrameCollectorStationFunction
+[2023.08.18-12.14.11:777][319]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-12.14.17:218][677]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-12.14.17:229][677]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-12.14.17:236][677]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-12.14.17:246][678]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-12.14.28:263][999]LogContentBrowser: Attempting asset rename: NewBlueprint -> HoneyBottleCollectorFunction
+[2023.08.18-12.14.28:268][999]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-12.14.32:083][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.14.32:145][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FrameCollectorStationFunction" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/FrameCollectorStationFunction.uasset" SILENT=true
+[2023.08.18-12.14.32:146][455]LogSavePackage: Moving output files for package: /Game/Blueprints/FrameCollectorStationFunction
+[2023.08.18-12.14.32:146][455]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/FrameCollectorStationFunctionE389E97E459908750B183C9E4C257D17.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/FrameCollectorStationFunction.uasset'
+[2023.08.18-12.14.32:149][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoneyBottleCollectorFunction" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/HoneyBottleCollectorFunction.uasset" SILENT=true
+[2023.08.18-12.14.32:151][455]LogSavePackage: Moving output files for package: /Game/Blueprints/HoneyBottleCollectorFunction
+[2023.08.18-12.14.32:151][455]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/HoneyBottleCollectorFunction5B1FA02F471D7DF75976569134558A36.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/HoneyBottleCollectorFunction.uasset'
+[2023.08.18-12.14.32:155][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PipeFunction" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/PipeFunction.uasset" SILENT=true
+[2023.08.18-12.14.32:156][455]LogSavePackage: Moving output files for package: /Game/Blueprints/PipeFunction
+[2023.08.18-12.14.32:157][455]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/PipeFunction273F647A4B77F256210379ADAF2F4CDF.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/PipeFunction.uasset'
+[2023.08.18-12.14.32:159][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BeehiveFunction" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/BeehiveFunction.uasset" SILENT=true
+[2023.08.18-12.14.32:161][455]LogSavePackage: Moving output files for package: /Game/Blueprints/BeehiveFunction
+[2023.08.18-12.14.32:161][455]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/BeehiveFunction457450D044B18CD16FDC85A73CFCD4E9.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/BeehiveFunction.uasset'
+[2023.08.18-12.14.32:173][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 5.02 sec)
+[2023.08.18-12.14.32:178][455]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.18-12.14.32:178][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FrameCollectorStationFunction.FrameCollectorStationFunction
+[2023.08.18-12.14.32:178][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/HoneyBottleCollectorFunction.HoneyBottleCollectorFunction
+[2023.08.18-12.14.32:178][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PipeFunction.PipeFunction
+[2023.08.18-12.14.32:178][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BeehiveFunction.BeehiveFunction
+[2023.08.18-12.14.38:704][ 47]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-12.14.38:714][ 47]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-12.14.38:721][ 47]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-12.14.38:731][ 48]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-12.14.48:234][189]LogContentBrowser: Attempting asset rename: NewBlueprint -> HoneyBottleCollector
+[2023.08.18-12.14.48:240][189]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-12.14.56:653][739]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-12.14.56:665][739]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-12.14.56:672][739]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-12.14.56:682][740]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-12.15.07:181][  0]LogContentBrowser: Attempting asset rename: NewBlueprint -> FrameCollector
+[2023.08.18-12.15.07:186][  0]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-12.15.09:357][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.15.09:413][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FrameCollector" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/FrameCollector.uasset" SILENT=true
+[2023.08.18-12.15.09:415][253]LogSavePackage: Moving output files for package: /Game/Blueprints/FrameCollector
+[2023.08.18-12.15.09:415][253]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/FrameCollectorEFA585D74F153186F7669FB20520EA3E.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/FrameCollector.uasset'
+[2023.08.18-12.15.09:418][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoneyBottleCollector" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/HoneyBottleCollector.uasset" SILENT=true
+[2023.08.18-12.15.09:421][253]LogSavePackage: Moving output files for package: /Game/Blueprints/HoneyBottleCollector
+[2023.08.18-12.15.09:421][253]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/HoneyBottleCollector57DB92EA45DAD231828D5CA202788044.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/HoneyBottleCollector.uasset'
+[2023.08.18-12.15.09:433][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.10 sec)
+[2023.08.18-12.15.09:440][253]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.18-12.15.09:440][253]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FrameCollector.FrameCollector
+[2023.08.18-12.15.09:440][253]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/HoneyBottleCollector.HoneyBottleCollector
+[2023.08.18-12.15.11:559][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/HoneyBottleCollector.HoneyBottleCollector
+[2023.08.18-12.15.11:559][503]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.18-12.15.11:559][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-12.15.11:718][503]LogViewport: Scene viewport resized to 803x307, mode Windowed.
+[2023.08.18-12.15.11:752][504]LogViewport: Scene viewport resized to 803x306, mode Windowed.
+[2023.08.18-12.15.12:461][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FrameCollector.FrameCollector
+[2023.08.18-12.15.12:461][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.18-12.15.12:461][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-12.15.12:586][569]LogViewport: Scene viewport resized to 803x317, mode Windowed.
+[2023.08.18-12.15.12:618][570]LogViewport: Scene viewport resized to 803x306, mode Windowed.
+[2023.08.18-12.15.13:955][703]LogViewport: Scene viewport resized to 1062x723, mode Windowed.
+[2023.08.18-12.16.39:208][690]LogViewport: Scene viewport resized to 1062x723, mode Windowed.
+[2023.08.18-12.17.59:070][934]LogSlate: Window 'FrameCollector' being destroyed
+[2023.08.18-12.17.59:077][934]LogSlate: Window 'FrameCollector' being destroyed
+[2023.08.18-12.17.59:087][934]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.08.18-12.17.59:087][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.18-12.17.59:175][934]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.18-12.17.59:175][934]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.08.18-12.17.59:175][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.18-12.17.59:945][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.17.59:988][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FrameCollector" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/FrameCollector.uasset" SILENT=true
+[2023.08.18-12.17.59:991][ 16]LogSavePackage: Moving output files for package: /Game/Blueprints/FrameCollector
+[2023.08.18-12.17.59:992][ 16]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/FrameCollector9506F35D4C297451AD61A08201074764.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/FrameCollector.uasset'
+[2023.08.18-12.17.59:994][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoneyBottleCollector" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/HoneyBottleCollector.uasset" SILENT=true
+[2023.08.18-12.17.59:996][ 16]LogSavePackage: Moving output files for package: /Game/Blueprints/HoneyBottleCollector
+[2023.08.18-12.17.59:997][ 16]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/HoneyBottleCollector45A1B83041330AED802417BB5CBAA48E.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/HoneyBottleCollector.uasset'
+[2023.08.18-12.18.00:006][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 5.16 sec)
+[2023.08.18-12.18.00:014][ 16]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.18-12.18.00:014][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FrameCollector.FrameCollector
+[2023.08.18-12.18.00:014][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/HoneyBottleCollector.HoneyBottleCollector
