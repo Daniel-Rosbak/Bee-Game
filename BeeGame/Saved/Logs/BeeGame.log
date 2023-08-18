@@ -8305,3 +8305,383 @@ Script Stack (0 frames) :
 [2023.08.18-12.18.00:014][ 16]AssetCheck: New page: Asset Save: multiple assets
 [2023.08.18-12.18.00:014][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FrameCollector.FrameCollector
 [2023.08.18-12.18.00:014][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/HoneyBottleCollector.HoneyBottleCollector
+[2023.08.18-12.18.51:200][753]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/World_generation.World_generation
+[2023.08.18-12.18.51:201][753]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.18-12.18.51:201][753]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-12.19.48:254][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.08.18-12.19.48:262][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.19.48:326][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World_generation" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset" SILENT=true
+[2023.08.18-12.19.48:359][848]LogSavePackage: Moving output files for package: /Game/Blueprints/World_generation
+[2023.08.18-12.19.48:360][848]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/World_generationEEB2C454411447F14A7921B7DD543853.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset'
+[2023.08.18-12.19.48:370][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 5.26 sec)
+[2023.08.18-12.19.48:377][848]AssetCheck: New page: Asset Save: World_generation
+[2023.08.18-12.19.48:377][848]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/World_generation.World_generation
+[2023.08.18-12.19.52:175][271]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CameraController.CameraController
+[2023.08.18-12.19.52:175][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.18-12.19.52:175][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-12.20.07:172][429]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WB_HUD.WB_HUD
+[2023.08.18-12.20.07:172][429]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.18-12.20.07:172][429]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-12.20.07:180][429]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.18-12.20.07:180][429]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-12.25.19:687][523]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.18-12.25.29:517][283]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.18-12.25.44:333][502]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.18-12.29.04:777][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.08.18-12.29.04:786][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.29.04:853][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraController" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/CameraController.uasset" SILENT=true
+[2023.08.18-12.29.04:868][497]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraController
+[2023.08.18-12.29.04:869][497]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/CameraController5BAC837B4FB657D9222D7182C6875732.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/CameraController.uasset'
+[2023.08.18-12.29.04:872][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_HUD" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset" SILENT=true
+[2023.08.18-12.29.04:884][497]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_HUD
+[2023.08.18-12.29.04:884][497]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/WB_HUD8A44577D41F18DE14CCF4A8398CF99A0.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset'
+[2023.08.18-12.29.04:895][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 5.37 sec)
+[2023.08.18-12.29.04:903][497]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.18-12.29.04:903][497]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraController.CameraController
+[2023.08.18-12.29.04:903][497]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_HUD.WB_HUD
+[2023.08.18-12.34.43:322][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.08.18-12.34.43:326][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.34.43:385][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraController" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/CameraController.uasset" SILENT=true
+[2023.08.18-12.34.43:400][387]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraController
+[2023.08.18-12.34.43:400][387]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/CameraControllerB6434F8B4FF2DCA64A87B389227C9E57.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/CameraController.uasset'
+[2023.08.18-12.34.43:404][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_HUD" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset" SILENT=true
+[2023.08.18-12.34.43:415][387]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_HUD
+[2023.08.18-12.34.43:416][387]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/WB_HUDD257C1C045D525AE4CDF57ACBBED3F66.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset'
+[2023.08.18-12.34.43:427][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 5.47 sec)
+[2023.08.18-12.34.43:434][387]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.18-12.34.43:434][387]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraController.CameraController
+[2023.08.18-12.34.43:434][387]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_HUD.WB_HUD
+[2023.08.18-12.34.45:190][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.18-12.34.45:198][586]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.18-12.34.45:199][586]LogPlayLevel: [PlayLevel] Compiling CameraController before play...
+[2023.08.18-12.34.45:264][586]LogPlayLevel: [PlayLevel] Compiling World_generation before play...
+[2023.08.18-12.34.45:317][586]LogPlayLevel: [PlayLevel] Compiling HoneyBottleCollector before play...
+[2023.08.18-12.34.45:320][586]LogPlayLevel: [PlayLevel] Compiling FrameCollector before play...
+[2023.08.18-12.34.45:323][586]LogPlayLevel: [PlayLevel] Compiling WB_HUD before play...
+[2023.08.18-12.34.45:378][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.08.18-12.34.45:381][586]LogPlayLevel: PlayLevel: Blueprint regeneration took 182 ms (5 blueprints)
+[2023.08.18-12.34.45:381][586]PIE: New page: PIE session: world (18 Aug 2023, 16.34.45)
+[2023.08.18-12.34.45:381][586]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_world
+[2023.08.18-12.34.45:382][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000911s)
+[2023.08.18-12.34.45:382][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/world.world to /Game/Maps/UEDPIE_0_world.world (0.000979s)
+[2023.08.18-12.34.45:382][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.18-12.34.45:382][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-12.34.45:383][586]LogAIModule: Creating AISystem for world world
+[2023.08.18-12.34.45:383][586]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2023.08.18-12.34.45:409][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.08.18-12.34.45:410][586]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.08.18-12.34.45:410][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.18-12.34.45:410][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.18-12.34.45:410][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.18-12.34.45:410][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.18-12.34.45:410][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.18-12.34.45:410][586]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.18-12.34.45:410][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.18-12.34.45:410][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.18-12.34.45:411][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.18-12.34.45:411][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.18-12.34.45:411][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.18-12.34.45:413][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.18-12.34.45:443][586]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.08.18-12.34.45:444][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.18-12.34.45:444][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.18-12.34.45:444][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.18-12.34.45:444][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2023.08.18-12.34.45:444][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2023.08.18-12.34.45:446][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2023.08.18-12.34.45:446][586]LogInit: FAudioDevice initialized with ID 49.
+[2023.08.18-12.34.45:446][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2023.08.18-12.34.45:446][586]LogAudio: Display: Audio Device (ID: 49) registered with world 'world'.
+[2023.08.18-12.34.45:446][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2023.08.18-12.34.45:450][586]LogLoad: Game class is 'GM_BP_C'
+[2023.08.18-12.34.45:450][586]LogWorld: Bringing World /Game/Maps/UEDPIE_0_world.world up for play (max tick rate 0) at 2023.08.18-14.34.45
+[2023.08.18-12.34.45:450][586]LogWorld: Bringing up level for play took: 0.000369
+[2023.08.18-12.34.45:452][586]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.08.18-12.34.45:591][586]PIE: Server logged in
+[2023.08.18-12.34.45:591][586]PIE: Play in editor total start time 0,394 seconds.
+[2023.08.18-12.34.45:627][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.45:628][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.45:628][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.45:629][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.45:629][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.45:629][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.45:630][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.45:630][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.45:631][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.45:631][586]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.52:507][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.18-12.34.52:507][397]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_world
+[2023.08.18-12.34.52:508][397]LogWorld: UWorld::CleanupWorld for world, bSessionEnded=true, bCleanupResources=true
+[2023.08.18-12.34.52:512][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.18-12.34.52:515][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.18-12.34.52:519][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.18-12.34.52:548][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.18-12.34.52:548][397]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2023.08.18-12.34.52:548][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.08.18-12.34.52:549][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.08.18-12.34.52:564][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.08.18-12.34.52:581][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.52:581][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.52:582][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-12.34.52:591][398]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.08.18-12.40.19:020][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.08.18-12.40.19:024][916]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/world' took 0.037
+[2023.08.18-12.40.19:024][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CameraController] ([2] browsable assets)...
+[2023.08.18-12.40.19:024][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CameraController]
+[2023.08.18-12.40.19:042][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/CameraController_Auto9
+[2023.08.18-12.40.19:043][916]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/CameraController_Auto9793FEC564F4D419A0539C885E95FDD19.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/Autosaves/Game/Blueprints/CameraController_Auto9.uasset'
+[2023.08.18-12.40.19:044][916]LogFileHelpers: Auto-saving content packages took 0.020
+[2023.08.18-12.41.20:195][100]LogDerivedDataCache: C:/Users/Daniel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.136 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1088 files in 1780 folders with total size 54 MiB.
+[2023.08.18-12.51.58:668][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.08.18-12.51.58:674][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.51.58:734][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraController" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/CameraController.uasset" SILENT=true
+[2023.08.18-12.51.58:747][415]LogSavePackage: Moving output files for package: /Game/Blueprints/CameraController
+[2023.08.18-12.51.58:747][415]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/CameraController8967FE7A4B074816323F4C813932EA8B.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/CameraController.uasset'
+[2023.08.18-12.51.58:752][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_HUD" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset" SILENT=true
+[2023.08.18-12.51.58:766][415]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_HUD
+[2023.08.18-12.51.58:767][415]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/WB_HUD5F2935CB40DCEFE41A9E2C8F85BEF989.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset'
+[2023.08.18-12.51.58:780][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 5.58 sec)
+[2023.08.18-12.51.58:788][415]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.18-12.51.58:788][415]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CameraController.CameraController
+[2023.08.18-12.51.58:788][415]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_HUD.WB_HUD
+[2023.08.18-12.53.34:214][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.08.18-12.53.34:218][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.53.34:272][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World_generation" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset" SILENT=true
+[2023.08.18-12.53.34:308][ 45]LogSavePackage: Moving output files for package: /Game/Blueprints/World_generation
+[2023.08.18-12.53.34:309][ 45]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/World_generationB007A77742F86FC0E81C38866FEDCB0E.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset'
+[2023.08.18-12.53.34:322][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 5.68 sec)
+[2023.08.18-12.53.34:329][ 45]AssetCheck: New page: Asset Save: World_generation
+[2023.08.18-12.53.34:329][ 45]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/World_generation.World_generation
+[2023.08.18-12.53.36:943][326]LogEditorViewport: Clicking Background
+[2023.08.18-12.53.48:592][711]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.18-12.53.48:601][711]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.18-12.53.48:602][711]LogPlayLevel: [PlayLevel] Compiling CameraController before play...
+[2023.08.18-12.53.48:763][711]LogPlayLevel: [PlayLevel] Compiling World_generation before play...
+[2023.08.18-12.53.48:833][711]LogPlayLevel: [PlayLevel] Compiling WB_HUD before play...
+[2023.08.18-12.53.48:836][711]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] This blueprint (self) is not a TextBlock, therefore ' Target ' must have a connection.
+[2023.08.18-12.53.49:303][711]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' PlayerMoney ': Member:Get_PlayerMoney_Text Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2023.08.18-12.53.49:303][711]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' Rent ': Member:Get_Rent_Text Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2023.08.18-12.53.49:370][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.08.18-12.53.49:373][711]LogPlayLevel: PlayLevel: Blueprint regeneration took 772 ms (3 blueprints)
+[2023.08.18-12.53.49:373][711]BlueprintLog: Warning: Blueprint failed to compile:  WB_HUD
+[2023.08.18-12.53.51:170][711]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.08.18-12.53.54:004][976]LogSlate: Window 'Message Log' being destroyed
+[2023.08.18-12.53.54:011][976]LogSlate: Window 'Message Log' being destroyed
+[2023.08.18-12.53.59:856][607]BlueprintLog: New page: Compile WB_HUD
+[2023.08.18-12.53.59:862][607]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] This blueprint (self) is not a TextBlock, therefore ' Target ' must have a connection.
+[2023.08.18-12.53.59:863][607]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' PlayerMoney ': Member:Get_PlayerMoney_Text Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2023.08.18-12.53.59:863][607]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' Rent ': Member:Get_Rent_Text Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2023.08.18-12.53.59:904][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.08.18-12.55.20:970][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.08.18-12.55.20:973][185]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/world' took 0.030
+[2023.08.18-12.55.20:973][185]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WB_HUD] ([2] browsable assets)...
+[2023.08.18-12.55.20:976][185]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WB_HUD.WB_HUD]
+[2023.08.18-12.55.20:976][185]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WB_HUD]
+[2023.08.18-12.55.20:976][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_HUD" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/Autosaves/Game/Blueprints/WB_HUD_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2023.08.18-12.55.20:993][185]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WB_HUD_Auto0
+[2023.08.18-12.55.20:993][185]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/WB_HUD_Auto07228F9E44D66F4D486A2F786F2890E3A.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/Autosaves/Game/Blueprints/WB_HUD_Auto0.uasset'
+[2023.08.18-12.55.20:993][185]LogFileHelpers: Auto-saving content packages took 0.020
+[2023.08.18-12.59.07:209][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.08.18-12.59.07:213][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.59.07:269][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/World_generation" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset" SILENT=true
+[2023.08.18-12.59.07:299][669]LogSavePackage: Moving output files for package: /Game/Blueprints/World_generation
+[2023.08.18-12.59.07:299][669]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/World_generation882758A94C8DA58C63D549B781F96C34.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/World_generation.uasset'
+[2023.08.18-12.59.07:303][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_HUD" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset" SILENT=true
+[2023.08.18-12.59.07:319][669]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_HUD
+[2023.08.18-12.59.07:319][669]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/WB_HUD36BFB54B4BF8AAE831B15088323A143E.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset'
+[2023.08.18-12.59.07:332][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 5.80 sec)
+[2023.08.18-12.59.07:338][669]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.18-12.59.07:338][669]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/World_generation.World_generation
+[2023.08.18-12.59.07:338][669]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_HUD.WB_HUD
+[2023.08.18-12.59.09:324][876]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.18-12.59.09:332][876]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.18-12.59.09:481][876]LogPlayLevel: [PlayLevel] Compiling World_generation before play...
+[2023.08.18-12.59.09:596][876]LogPlayLevel: [PlayLevel] Compiling WB_HUD before play...
+[2023.08.18-12.59.09:600][876]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] This blueprint (self) is not a TextBlock, therefore ' Target ' must have a connection.
+[2023.08.18-12.59.09:601][876]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' PlayerMoney ': Member:Get_PlayerMoney_Text Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2023.08.18-12.59.09:674][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.08.18-12.59.09:677][876]LogPlayLevel: PlayLevel: Blueprint regeneration took 344 ms (2 blueprints)
+[2023.08.18-12.59.09:677][876]BlueprintLog: Warning: Blueprint failed to compile:  WB_HUD
+[2023.08.18-12.59.11:802][876]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.08.18-12.59.14:373][ 49]LogSlate: Window 'Message Log' being destroyed
+[2023.08.18-12.59.14:381][ 49]LogSlate: Window 'Message Log' being destroyed
+[2023.08.18-12.59.16:548][217]BlueprintLog: New page: Compile WB_HUD
+[2023.08.18-12.59.16:553][217]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] This blueprint (self) is not a TextBlock, therefore ' Target ' must have a connection.
+[2023.08.18-12.59.16:554][217]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' PlayerMoney ': Member:Get_PlayerMoney_Text Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2023.08.18-12.59.16:600][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.08.18-12.59.35:128][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.08.18-12.59.35:134][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-12.59.35:198][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_HUD" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset" SILENT=true
+[2023.08.18-12.59.35:220][673]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_HUD
+[2023.08.18-12.59.35:220][673]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/WB_HUD0F2BB0C74A1741AE569A028AF35F8B7C.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset'
+[2023.08.18-12.59.35:238][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 5.91 sec)
+[2023.08.18-12.59.35:246][673]AssetCheck: New page: Asset Save: WB_HUD
+[2023.08.18-12.59.35:246][673]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_HUD.WB_HUD
+[2023.08.18-12.59.36:019][749]BlueprintLog: New page: Compile WB_HUD
+[2023.08.18-12.59.36:025][749]LogBlueprint: Error: [AssetLog] C:\Users\Daniel\Documents\GitHub\Bee-Game\BeeGame\Content\Blueprints\WB_HUD.uasset: [Compiler] This blueprint (self) is not a TextBlock, therefore ' Target ' must have a connection.
+[2023.08.18-12.59.36:071][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.08.18-13.00.17:453][402]BlueprintLog: New page: Compile WB_HUD
+[2023.08.18-13.00.17:501][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.08.18-13.00.18:651][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.08.18-13.00.18:655][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.18-13.00.18:728][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WB_HUD" FILE="C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset" SILENT=true
+[2023.08.18-13.00.18:740][506]LogSavePackage: Moving output files for package: /Game/Blueprints/WB_HUD
+[2023.08.18-13.00.18:740][506]LogSavePackage: Moving 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Saved/WB_HUD8036248F4E15329E4871AD89DE1C2637.tmp' to 'C:/Users/Daniel/Documents/GitHub/Bee-Game/BeeGame/Content/Blueprints/WB_HUD.uasset'
+[2023.08.18-13.00.18:753][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 6.01 sec)
+[2023.08.18-13.00.18:761][506]AssetCheck: New page: Asset Save: WB_HUD
+[2023.08.18-13.00.18:761][506]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WB_HUD.WB_HUD
+[2023.08.18-13.00.21:034][748]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.18-13.00.21:043][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.18-13.00.21:043][748]PIE: New page: PIE session: world (18 Aug 2023, 17.00.21)
+[2023.08.18-13.00.21:044][748]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_world
+[2023.08.18-13.00.21:045][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000893s)
+[2023.08.18-13.00.21:045][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/world.world to /Game/Maps/UEDPIE_0_world.world (0.000924s)
+[2023.08.18-13.00.21:045][748]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.18-13.00.21:045][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-13.00.21:045][748]LogAIModule: Creating AISystem for world world
+[2023.08.18-13.00.21:045][748]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2023.08.18-13.00.21:069][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.08.18-13.00.21:071][748]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.08.18-13.00.21:071][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.18-13.00.21:071][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.18-13.00.21:071][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.18-13.00.21:071][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.18-13.00.21:071][748]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.18-13.00.21:071][748]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.18-13.00.21:071][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.18-13.00.21:071][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.18-13.00.21:072][748]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.18-13.00.21:072][748]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.18-13.00.21:072][748]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.18-13.00.21:074][748]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.18-13.00.21:102][748]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.08.18-13.00.21:103][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.18-13.00.21:103][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.18-13.00.21:103][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.18-13.00.21:103][748]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2023.08.18-13.00.21:104][748]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2023.08.18-13.00.21:105][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2023.08.18-13.00.21:106][748]LogInit: FAudioDevice initialized with ID 50.
+[2023.08.18-13.00.21:106][748]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2023.08.18-13.00.21:106][748]LogAudio: Display: Audio Device (ID: 50) registered with world 'world'.
+[2023.08.18-13.00.21:106][748]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2023.08.18-13.00.21:108][748]LogLoad: Game class is 'GM_BP_C'
+[2023.08.18-13.00.21:109][748]LogWorld: Bringing World /Game/Maps/UEDPIE_0_world.world up for play (max tick rate 0) at 2023.08.18-15.00.21
+[2023.08.18-13.00.21:109][748]LogWorld: Bringing up level for play took: 0.000483
+[2023.08.18-13.00.21:111][748]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.08.18-13.00.21:245][748]PIE: Server logged in
+[2023.08.18-13.00.21:246][748]PIE: Play in editor total start time 0,203 seconds.
+[2023.08.18-13.00.21:301][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.21:301][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.21:302][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.21:302][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.21:303][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.21:303][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.21:304][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.21:304][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.21:304][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.21:305][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.26:705][389]LogViewport: Scene viewport resized to 1533x635, mode Windowed.
+[2023.08.18-13.00.26:741][391]LogViewport: Scene viewport resized to 1533x649, mode Windowed.
+[2023.08.18-13.00.26:760][391]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.26:777][393]LogViewport: Scene viewport resized to 1533x662, mode Windowed.
+[2023.08.18-13.00.26:812][395]LogViewport: Scene viewport resized to 1533x671, mode Windowed.
+[2023.08.18-13.00.26:845][397]LogViewport: Scene viewport resized to 1533x681, mode Windowed.
+[2023.08.18-13.00.26:880][399]LogViewport: Scene viewport resized to 1533x693, mode Windowed.
+[2023.08.18-13.00.26:898][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.26:915][401]LogViewport: Scene viewport resized to 1533x702, mode Windowed.
+[2023.08.18-13.00.26:949][403]LogViewport: Scene viewport resized to 1533x719, mode Windowed.
+[2023.08.18-13.00.26:985][405]LogViewport: Scene viewport resized to 1533x744, mode Windowed.
+[2023.08.18-13.00.27:004][405]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.27:015][406]LogViewport: Scene viewport resized to 1533x762, mode Windowed.
+[2023.08.18-13.00.27:048][408]LogViewport: Scene viewport resized to 1533x776, mode Windowed.
+[2023.08.18-13.00.27:066][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.27:081][410]LogViewport: Scene viewport resized to 1533x781, mode Windowed.
+[2023.08.18-13.00.27:113][412]LogViewport: Scene viewport resized to 1533x791, mode Windowed.
+[2023.08.18-13.00.27:145][414]LogViewport: Scene viewport resized to 1533x801, mode Windowed.
+[2023.08.18-13.00.27:177][416]LogViewport: Scene viewport resized to 1533x811, mode Windowed.
+[2023.08.18-13.00.27:195][416]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.27:211][418]LogViewport: Scene viewport resized to 1533x817, mode Windowed.
+[2023.08.18-13.00.27:243][420]LogViewport: Scene viewport resized to 1533x823, mode Windowed.
+[2023.08.18-13.00.27:276][422]LogViewport: Scene viewport resized to 1533x831, mode Windowed.
+[2023.08.18-13.00.27:308][424]LogViewport: Scene viewport resized to 1533x841, mode Windowed.
+[2023.08.18-13.00.27:341][426]LogViewport: Scene viewport resized to 1533x852, mode Windowed.
+[2023.08.18-13.00.27:359][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.27:374][428]LogViewport: Scene viewport resized to 1533x862, mode Windowed.
+[2023.08.18-13.00.27:399][429]LogViewport: Scene viewport resized to 1533x871, mode Windowed.
+[2023.08.18-13.00.27:430][431]LogViewport: Scene viewport resized to 1533x884, mode Windowed.
+[2023.08.18-13.00.27:462][433]LogViewport: Scene viewport resized to 1533x895, mode Windowed.
+[2023.08.18-13.00.27:480][433]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.27:494][435]LogViewport: Scene viewport resized to 1533x902, mode Windowed.
+[2023.08.18-13.00.27:526][437]LogViewport: Scene viewport resized to 1533x910, mode Windowed.
+[2023.08.18-13.00.27:557][439]LogViewport: Scene viewport resized to 1533x920, mode Windowed.
+[2023.08.18-13.00.27:588][441]LogViewport: Scene viewport resized to 1533x925, mode Windowed.
+[2023.08.18-13.00.27:620][443]LogViewport: Scene viewport resized to 1533x932, mode Windowed.
+[2023.08.18-13.00.27:639][443]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.27:654][445]LogViewport: Scene viewport resized to 1533x937, mode Windowed.
+[2023.08.18-13.00.28:429][536]LogViewport: Scene viewport resized to 1533x936, mode Windowed.
+[2023.08.18-13.00.28:467][538]LogViewport: Scene viewport resized to 1533x931, mode Windowed.
+[2023.08.18-13.00.28:498][540]LogViewport: Scene viewport resized to 1533x927, mode Windowed.
+[2023.08.18-13.00.28:533][542]LogViewport: Scene viewport resized to 1533x923, mode Windowed.
+[2023.08.18-13.00.28:564][544]LogViewport: Scene viewport resized to 1533x921, mode Windowed.
+[2023.08.18-13.00.28:595][546]LogViewport: Scene viewport resized to 1533x919, mode Windowed.
+[2023.08.18-13.00.28:658][552]LogViewport: Scene viewport resized to 1533x918, mode Windowed.
+[2023.08.18-13.00.28:807][568]LogViewport: Scene viewport resized to 1533x911, mode Windowed.
+[2023.08.18-13.00.28:839][570]LogViewport: Scene viewport resized to 1533x902, mode Windowed.
+[2023.08.18-13.00.28:880][573]LogViewport: Scene viewport resized to 1533x896, mode Windowed.
+[2023.08.18-13.00.28:911][575]LogViewport: Scene viewport resized to 1533x893, mode Windowed.
+[2023.08.18-13.00.28:960][579]LogViewport: Scene viewport resized to 1533x888, mode Windowed.
+[2023.08.18-13.00.28:987][580]LogViewport: Scene viewport resized to 1533x884, mode Windowed.
+[2023.08.18-13.00.29:019][582]LogViewport: Scene viewport resized to 1533x879, mode Windowed.
+[2023.08.18-13.00.29:883][684]LogViewport: Scene viewport resized to 1533x875, mode Windowed.
+[2023.08.18-13.00.29:937][688]LogViewport: Scene viewport resized to 1533x872, mode Windowed.
+[2023.08.18-13.00.29:986][692]LogViewport: Scene viewport resized to 1533x869, mode Windowed.
+[2023.08.18-13.00.30:018][694]LogViewport: Scene viewport resized to 1533x865, mode Windowed.
+[2023.08.18-13.00.30:050][696]LogViewport: Scene viewport resized to 1533x864, mode Windowed.
+[2023.08.18-13.00.30:364][732]LogViewport: Scene viewport resized to 1533x863, mode Windowed.
+[2023.08.18-13.00.30:402][734]LogViewport: Scene viewport resized to 1533x864, mode Windowed.
+[2023.08.18-13.00.30:449][738]LogViewport: Scene viewport resized to 1533x869, mode Windowed.
+[2023.08.18-13.00.30:480][740]LogViewport: Scene viewport resized to 1533x871, mode Windowed.
+[2023.08.18-13.00.30:512][742]LogViewport: Scene viewport resized to 1533x870, mode Windowed.
+[2023.08.18-13.00.30:568][747]LogViewport: Scene viewport resized to 1533x872, mode Windowed.
+[2023.08.18-13.00.33:019][ 39]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.34:022][159]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.36:027][391]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.37:030][511]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.38:032][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.39:033][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.41:043][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.43:053][230]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.52:934][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.18-13.00.52:934][401]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_world
+[2023.08.18-13.00.52:935][401]LogWorld: UWorld::CleanupWorld for world, bSessionEnded=true, bCleanupResources=true
+[2023.08.18-13.00.52:938][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.18-13.00.52:946][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.18-13.00.52:951][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.18-13.00.52:976][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.18-13.00.52:976][401]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2023.08.18-13.00.52:976][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.08.18-13.00.52:978][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.08.18-13.00.52:983][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.18-13.00.52:996][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.08.18-13.00.53:013][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.53:013][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.53:014][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.18-13.00.53:027][402]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.08.18-13.01.20:722][682]LogViewport: Scene viewport resized to 1533x860, mode Windowed.
+[2023.08.18-13.01.20:754][684]LogViewport: Scene viewport resized to 1533x817, mode Windowed.
+[2023.08.18-13.01.20:787][686]LogViewport: Scene viewport resized to 1533x754, mode Windowed.
+[2023.08.18-13.01.20:815][687]LogViewport: Scene viewport resized to 1533x701, mode Windowed.
+[2023.08.18-13.01.20:851][689]LogViewport: Scene viewport resized to 1533x645, mode Windowed.
+[2023.08.18-13.01.20:887][691]LogViewport: Scene viewport resized to 1533x630, mode Windowed.
+[2023.08.18-13.01.20:921][693]LogViewport: Scene viewport resized to 1533x627, mode Windowed.
+[2023.08.18-13.01.20:954][695]LogViewport: Scene viewport resized to 1533x625, mode Windowed.
+[2023.08.18-13.01.20:987][697]LogViewport: Scene viewport resized to 1533x621, mode Windowed.
+[2023.08.18-13.01.21:128][712]LogViewport: Scene viewport resized to 1533x620, mode Windowed.
+[2023.08.18-13.01.21:162][714]LogViewport: Scene viewport resized to 1533x613, mode Windowed.
+[2023.08.18-13.01.21:196][716]LogViewport: Scene viewport resized to 1533x608, mode Windowed.
+[2023.08.18-13.01.21:223][717]LogViewport: Scene viewport resized to 1533x609, mode Windowed.
+[2023.08.18-13.01.21:371][733]LogViewport: Scene viewport resized to 1533x606, mode Windowed.
+[2023.08.18-13.01.21:405][735]LogViewport: Scene viewport resized to 1533x597, mode Windowed.
+[2023.08.18-13.01.21:440][737]LogViewport: Scene viewport resized to 1533x584, mode Windowed.
+[2023.08.18-13.01.21:468][738]LogViewport: Scene viewport resized to 1533x580, mode Windowed.
