@@ -11985,3 +11985,6 @@ Make sure 'HoneyPacker_C' has been compiled for  Set HoneyFrames
 [2023.08.18-15.48.08:762][408]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2023.08.18-15.48.08:762][408]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2023.08.18-15.48.08:774][408]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.08.18-15.48.47:708][408]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.08.18-15.48.47:841][408]LogExit: Exiting.
+[2023.08.18-15.48.47:897][408]Log file closed, 08/18/23 17:48:47
